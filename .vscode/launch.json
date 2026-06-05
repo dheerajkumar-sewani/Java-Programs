@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "queue",
+            "request": "launch",
+            "mainClass": "queue",
+            "projectName": "Java_e507da1a"
+        },
+        {
+            "type": "java",
+            "name": "insertion",
+            "request": "launch",
+            "mainClass": "insertion",
+            "projectName": "Java_e507da1a"
+        },
+        {
+            "type": "java",
+            "name": "fact",
+            "request": "launch",
+            "mainClass": "fact",
+            "projectName": "Java_e507da1a"
+        },
+        {
+            "type": "java",
+            "name": "rightstar",
+            "request": "launch",
+            "mainClass": "rightstar",
+            "projectName": "Java_e507da1a"
+        },
+        {
+            "type": "java",
+            "name": "khaalisquare",
+            "request": "launch",
+            "mainClass": "khaalisquare",
+            "projectName": "Java_e507da1a"
+        },
+        {
+            "type": "java",
+            "name": "square",
+            "request": "launch",
+            "mainClass": "square",
+            "projectName": "Java_e507da1a"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "table",
+            "projectName": "Java_e507da1a"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "Java_e507da1a"
+        },
+        {
+            "type": "java",
+            "name": "button",
+            "request": "launch",
+            "mainClass": "button",
+            "projectName": "Java_e507da1a"
+        },
+        {
+            "type": "java",
+            "name": "greater",
+            "request": "launch",
+            "mainClass": "greater",
+            "projectName": "Java_e507da1a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
